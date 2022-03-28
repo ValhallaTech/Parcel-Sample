@@ -35,6 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@popperjs/core", "npm:2.11.4"],\
             ["bootstrap", "virtual:de4cc8a9de4a0cf6eb4cb659fcc12f6d579927b9e3708f8fe6f7c0d3a218230437036b9f253e39e883e178638a4fb895188b50921121738f5e7b7c7555c07599#npm:5.1.3"],\
+            ["minimist", "npm:1.2.6"],\
             ["parcel", "npm:2.3.2"]\
           ],\
           "linkType": "SOFT"\
@@ -1000,6 +1001,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["Parcel-Sample", "workspace:."],\
             ["@popperjs/core", "npm:2.11.4"],\
             ["bootstrap", "virtual:de4cc8a9de4a0cf6eb4cb659fcc12f6d579927b9e3708f8fe6f7c0d3a218230437036b9f253e39e883e178638a4fb895188b50921121738f5e7b7c7555c07599#npm:5.1.3"],\
+            ["minimist", "npm:1.2.6"],\
             ["parcel", "npm:2.3.2"]\
           ],\
           "linkType": "SOFT"\
@@ -2274,6 +2276,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/minimist-npm-1.2.5-ced0e1f617-86706ce5b3.zip/node_modules/minimist/",\
           "packageDependencies": [\
             ["minimist", "npm:1.2.5"]\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["npm:1.2.6", {\
+          "packageLocation": "./.yarn/cache/minimist-npm-1.2.6-f4cee4b4af-d15428cd1e.zip/node_modules/minimist/",\
+          "packageDependencies": [\
+            ["minimist", "npm:1.2.6"]\
           ],\
           "linkType": "HARD"\
         }]\
