@@ -2,7 +2,8 @@
   "name": "Parcel-Sample",
   "packageManager": "yarn@3.2.0",
   "devDependencies": {
-    "parcel": "^2.3.2"
+    "parcel": "^2.3.2",
+    "semantic-release": "^19.0.2"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.4",
